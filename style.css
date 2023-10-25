@@ -18,3 +18,9 @@ h1{
 #texto1{
     color: rgb(34, 139, 34);
 }
+
+.destaques{
+    color: blueviolet;
+    font-size: 35;
+    font-style: italic;
+}
