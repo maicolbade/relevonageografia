@@ -50,3 +50,11 @@ a:hover{
 a:active{
     color: whitesmoke;
 }
+
+#banner {
+    width: 35%;
+    padding: 5px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+}
